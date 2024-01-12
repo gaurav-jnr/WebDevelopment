@@ -1,0 +1,12 @@
+div{
+    color: aliceblue;
+    background-color: black;
+}
+#outer{
+    font-size: large;
+}
+#inner{
+    font-size: 0.5 rem;
+}
+/* em
+another is root em(rem) use karte hai it will fix font size

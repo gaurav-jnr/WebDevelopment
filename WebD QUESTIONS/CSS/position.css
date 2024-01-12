@@ -1,0 +1,22 @@
+.id{
+    height: 100px;
+    width: 100px;
+    background-color: burlywood;
+    border: 4px solid black;
+    margin-bottom: 4px;
+}
+
+#one{
+    background-color: blue;
+    position: static;
+}
+
+#two{
+    background-color: pink;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+#three{
+    position: fixed;
+}

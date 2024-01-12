@@ -1,0 +1,35 @@
+/*Descendant selector*/
+div p{
+    color: blue;
+}
+
+p+h1{
+    background-color: yellow;
+}
+div > p{
+    color: black;
+}
+/*attribute selector*/
+
+input [type="text"]
+{
+color: blueviolet;
+}
+
+.head{
+    color: red;
+}
+/*Pseduo CLass*/
+ 
+button:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+button:active{
+    background-color: red;
+    color: white;
+}
+
+radio:checked{
+    background-color: red;
+}

@@ -1,0 +1,53 @@
+#one {
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 3px;
+    border: solid;
+    border-radius: 50%;
+    transition: 2s;
+
+}
+#one:hover
+{
+    background-color: black;
+}
+
+#two
+{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 3px;
+    border: solid;
+    transition: margin-top 2s ease-in-out 0.2s;
+    transform: translateY(10px);
+}
+
+#two:hover{
+    background-color: blue;
+    border-radius: 50%;
+}
+
+#three
+{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 3px;
+    border: solid;
+    box-shadow: 2px 2px 18px black;
+    transform: skew(30deg);
+}
+
+
+#four
+{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 3px;
+    border: solid;
+    transform: rotate(45deg);
+}
+

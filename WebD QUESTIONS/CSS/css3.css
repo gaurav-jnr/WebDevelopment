@@ -1,0 +1,47 @@
+
+/*pseudo ELements*/
+
+div::first-letter{
+    color: blueviolet;
+}
+
+div::selection{
+    background-color: blue;
+}
+
+div:nth-of-type(2)
+{
+  color: blue;
+    
+}
+
+#one
+{
+    height: 105px;
+    width: 500px;
+    border-width:  5px; 
+    border-style: solid;
+    border-color: burlywood;
+    padding: 20px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+#two
+{
+    height: 105px;
+    width: 500px;
+    border-width: 5px; 
+    border-style: solid;
+    border-color: burlywood;
+    padding: 20px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+button
+{
+
+    margin: 10px;
+
+} 

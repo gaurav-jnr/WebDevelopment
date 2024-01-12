@@ -1,0 +1,34 @@
+#main{
+    border-color: black;
+    border-style: solid;
+    height: 280px;
+    width: 100px;
+}
+
+#one
+{
+    height: 40px;
+    width: 40px;
+    border: solid;
+    margin: 28px;
+    background-color: red ;
+    border-radius: 50%;
+}
+#two
+{
+    height: 40px;
+    width: 40px;
+    border: solid;
+    margin: 28px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#three
+{
+    height: 40px;
+    width: 40px;
+    border: solid;
+    margin: 28px;
+    background-color: green;
+    border-radius: 50%;
+}

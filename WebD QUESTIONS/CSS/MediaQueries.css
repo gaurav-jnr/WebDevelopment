@@ -1,0 +1,21 @@
+#inside{
+    height: 100px;
+    width: 600px;
+    border: 4px solid black;
+    color: brown;
+    background-color: rebeccapurple;
+
+}
+
+#outside{
+    height: 200px;
+    width: 700px;
+    border: solid black;
+}
+@media (width:300px) 
+{
+    {
+        background-color: red;
+    }
+    
+}

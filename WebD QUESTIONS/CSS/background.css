@@ -1,0 +1,8 @@
+div
+{
+height: 400px;
+width: 400px;
+background-color: brown;
+background-image: url(new.jpg);
+background-size: auto;
+}
