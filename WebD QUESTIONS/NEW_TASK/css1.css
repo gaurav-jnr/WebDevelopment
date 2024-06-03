@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    background-color: blue;
+    text-align: end;
+    font-weight: 800;
+    text-decoration: dashed;
+}
+#new{
+    color: rebeccapurple;
+
+}
+#login{
+    color: blueviolet;
+}
+.button{
+    color: brown;
+    background-color:blueviolet ;
+}
